@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Elvis Ozioko
 
-<!--
-**The-Elvis/The-Elvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a materials science graduate focused on renewable energy technologies, particularly thin-film solar cells. My work centers on optimizing CdS thin films through elemental doping for improved performance in CdS/CZTS heterojunctions.
 
-Here are some ideas to get you started:
+I combine my scientific background with data tools and computational methods to streamline materials analysis, automate routine tasks, and accelerate insight generation. I'm currently building out projects that integrate scripting, experimental workflows, and AI-driven research tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core Skills
+- Thin-film deposition & experimental analysis
+- Python (Pandas, NumPy, Matplotlib)
+- Data visualization & scientific computing
+- Lab report automation & research scripting
+- Git & collaborative research workflows
+
+### Featured Projects
+- [cds-thin-film-analysis](#) — Bandgap, transmittance & resistivity analysis from doped CdS samples
+- [materials-research-workflows](#) — Scripts to enhance lab efficiency and experimental reproducibility
+- [solar-materials-literature-tools](#) — Tools for summarizing and managing materials science literature
+
+I'm passionate about merging computation and experimentation to drive faster, smarter discovery in the field of optoelectronics.
+
